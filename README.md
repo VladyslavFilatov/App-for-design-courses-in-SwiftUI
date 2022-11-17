@@ -3,9 +3,8 @@
 SwiftUI project - App for Swift courses.
 An interesting project that I did on tutorial courses to improve my knowledge of working with SwiftUI. 
 
-![Simulator Screen Shot - iPhone 14 Pro - 1](https://user-images.githubusercontent.com/107763268/202433504-45540307-48fa-4825-82e5-354392191d65.png)      ![Simulator Screen Shot - iPhone 14 Pro - 2](https://user-images.githubusercontent.com/107763268/202433523-d81caa12-051b-4e40-9b0c-937b646d2f81.png)
+<img width="325" alt="1" src="https://user-images.githubusercontent.com/107763268/202435116-ce5199df-9c09-4c26-8cc1-3c76b7368db8.png">      <img width="325" alt="2" src="https://user-images.githubusercontent.com/107763268/202435122-c043c688-a379-44c5-b065-46d2f7e2c700.png">
 
-![Simulator Screen Shot - iPhone 14 Pro - 3](https://user-images.githubusercontent.com/107763268/202433538-f3851874-1b80-49b5-83f7-8141eb2c4c99.png)      ![Simulator Screen Shot - iPhone 14 Pro - 4](https://user-images.githubusercontent.com/107763268/202433550-f08a1583-622e-49ae-80eb-2de60ede81a5.png)
+<img width="325" alt="3" src="https://user-images.githubusercontent.com/107763268/202435132-ddcdc393-50f7-416c-aa22-7e528f86abdf.png">      <img width="325" alt="4" src="https://user-images.githubusercontent.com/107763268/202435136-19e9dbd9-1ea5-47c3-9d32-9e2d48f08abf.png">
 
-![Simulator Screen Shot - iPhone 14 Pro - 5](https://user-images.githubusercontent.com/107763268/202433562-95ebf87d-95f9-4032-a8de-f58757bd04a0.png)      ![Simulator Screen Shot - iPhone 14 Pro - 6](https://user-images.githubusercontent.com/107763268/202433578-9399d3b0-6397-4e6f-9c5c-21c912219237.png)
-
+<img width="325" alt="5" src="https://user-images.githubusercontent.com/107763268/202435142-647197ac-5174-4168-b916-614f0249ddd1.png">      <img width="325" alt="6" src="https://user-images.githubusercontent.com/107763268/202435146-2b2bffe1-ae53-42b7-8449-c97e6f4d57f2.png">
